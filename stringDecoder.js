@@ -14,6 +14,16 @@
 // console.log(decoder(code))
 
 
+// const decoder = (str) => {
+//     index = 1
+//     for(i in str){
+//         if(Number.isInteger(Number(str[i]))){
+//         index += Number(str[i])
+//         console.log(str[index])
+//         index += 2
+//     }
+//     }}
+
 //answer
 // let decoder = (code) => {
 //     let decodeWord = "";
